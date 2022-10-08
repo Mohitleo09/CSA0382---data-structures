@@ -1,20 +1,3 @@
-
-VishnuAlavala
-/
-Data-Structures-with-Self-Balancing-Tree-Algorithms-
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Data-Structures-with-Self-Balancing-Tree-Algorithms-/10.Linked_list_operations.cpp
-@VishnuAlavala
-VishnuAlavala Add files via upload
- 1 contributor
-282 lines (276 sloc)  8 KB
 #include<stdlib.h>
 #include <stdio.h>
      
@@ -25,9 +8,7 @@ void insert_end();
 void insert_pos();
 void delete_begin();
 void delete_end();
-void delete_pos();
- 
- 
+void delete_pos(); 
 struct node
 {
         int info;
