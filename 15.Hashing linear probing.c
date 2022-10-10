@@ -2,7 +2,6 @@
 #include<stdlib.h>
 #define TABLE_SIZE 10
 int h[TABLE_SIZE]={NULL};
-
 void insert()
 {
  int key,index,i,flag=0,hkey;
